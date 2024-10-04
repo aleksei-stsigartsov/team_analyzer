@@ -1,0 +1,9 @@
+{
+  "apps": [{
+    "name": "team_analyzer",
+    "script": "server.js",
+    "log_date_format": "YYYY-MM-DD HH:mm:ss",
+    "watch": false,
+    "merge_logs": true
+  }]
+}

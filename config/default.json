@@ -1,0 +1,30 @@
+{
+  "app": {
+    "port": 4444
+  },
+  "certPath": "/fullchain.pem",
+  "keyPath": "/privkey.pem",
+  "database": {
+    "uri": "mongodb://localhost:27017/team_analyzer?authSource=admin"
+  },
+  "logPath": "/home/ubuntu/Rackwipe_Logs",
+  "authKeys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "BGgrOw0yhZmIrMpzoIcxF1htvteJs5dRGNl1zv2q6DU=",
+      "kty": "RSA",
+      "n": "zp9UbFu3QsogqP6vjVWQZqw2EGVITsndJxDeY3R1Q5gDNgmEfNHGE1BiT2q5xWnKc-OdVd2L4ssquy4e5PkKBfkRe2D7S3-adAQMZudt2oPjkl4vYnXXJzXTJnq-hbm0M1RJIfZwJ3hNgpltPfUX-sccZIiU2wvAtyysoFM456-rXNZhZgv7lHwI5n3HP2WZdetwRYAbw9B7qjPHgu9LeFkQ-sHl6ZiR4FSq2Dp4WCLS9lDHsJKZG789PxvlwUsq7lL4ODqoeg3ELrH4nwhzfgGaE0UfhKDrsgaidDbxO1MKM30adb1UJ_lOlxiQc1HPiPwNnlDLmyfsyLLc6_WYWQ",
+      "use": "sig"
+    },
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "zWL3akU8TSCrsNuCsdmVu2AIBoOg527vfcml29A0UEY=",
+      "kty": "RSA",
+      "n": "2O9cNPFw3eyMy4zTxM7ohKAMjQbD765nMlMp89CPdKk0mH5I_eOuy_XaQwfgKwk4RQ5mD04yOEMKbQLLcvu-sxv7ZoMPGllVlhn27xf8Q49YcQl374-8bllfNJ1JUqLSOSho_LDuOifgc-viQyllZ6YWSjYS6Sf4chS50EjyhZ8SMSMCXbLQeyab-TQyHIZ7doDTY2AvaBhhQj7uKlD_1AXGMHrYK0Kwm2LMLz3W91sqXHsJndbTLIiVTEyCugPgoPFKgAYBfgdyTk7PMb_Oe54DzJitzgVpQ1VEPs03zMbWw8i9uLDE1zAHa8QEAns9AyDOgig0zonuAzCqXZpz6w",
+      "use": "sig"
+    }
+  ],
+  "__hmac": "4bfd41c8aa2842feabcc81615f255e858c31bef85e972fc62cff707c96847b48"
+}

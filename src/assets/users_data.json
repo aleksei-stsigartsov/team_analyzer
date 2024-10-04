@@ -1,0 +1,1152 @@
+[
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfd')",
+        "username": "alan.allahverdijev",
+        "first_name": "Alan",
+        "second_name": "Allahverdijev",
+        "fullname": "Alan Allahverdijev",
+        "personal_id": "50609070214",
+        "phone_number": "56902247",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2006-09-07T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc305cfe')",
+        "username": "artem.anufriiev",
+        "first_name": "Artem",
+        "second_name": "Anufriiev",
+        "fullname": "Artem Anufriiev",
+        "personal_id": "50802070022",
+        "phone_number": "53554377",
+        "city": "Tallinn",
+        "city_area": "Kopli",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2008-02-07T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc306dff')",
+        "username": "artjom.bairatski",
+        "first_name": "Artjom",
+        "second_name": "Bairatski",
+        "fullname": "Artjom Bairatski",
+        "personal_id": "50703310273",
+        "phone_number": "58888444",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2007-04-01T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc307eee')",
+        "username": "spartak.biryukov",
+        "first_name": "Spartak",
+        "second_name": "Biryukov",
+        "fullname": "Spartak Biryukov",
+        "personal_id": "50706140286",
+        "phone_number": "5299243",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2007-05-14T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc308fff')",
+        "username": "valeri.bogdanov",
+        "first_name": "Valeri",
+        "second_name": "Bogdanov",
+        "fullname": "Valeri Bogdanov",
+        "personal_id": "50907147112",
+        "phone_number": "59812018",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2009-07-14T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc309ddd')",
+        "username": "vladimir.bugajenko",
+        "first_name": "Vladimir",
+        "second_name": "Bugajenko",
+        "fullname": "Vladimir Bugajenko",
+        "personal_id": "50607300272",
+        "phone_number": "56237778",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2006-07-30T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc310abc')",
+        "username": "yehor.danich",
+        "first_name": "Yehor",
+        "second_name": "Danich",
+        "fullname": "Yehor Danich",
+        "personal_id": "50706050014",
+        "phone_number": "56635956",
+        "city": "Tallinn",
+        "city_area": "Mustamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2007-06-05T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc311ddd')",
+        "username": "rolans.drobunins",
+        "first_name": "Rolans",
+        "second_name": "Drobunins",
+        "fullname": "Rolans Drobunins",
+        "personal_id": "50905277107",
+        "phone_number": "58904225",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "01.09.2023"
+            }
+        ],
+        "birthDate": "2009-05-27T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfa')",
+        "username": "kirill.dronov",
+        "first_name": "Kirill",
+        "second_name": "Dronov",
+        "fullname": "Dronov Kirill",
+        "personal_id": "////////////////////////",
+        "phone_number": "58049810",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2002-10-06T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfb')",
+        "username": "arseni.grankin",
+        "first_name": "Arseni",
+        "second_name": "Grankin",
+        "fullname": "Grankin Arseni",
+        "personal_id": "оформляет док",
+        "phone_number": "делает",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2007-11-27T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfc')",
+        "username": "daniel.grigorjev",
+        "first_name": "Daniel",
+        "second_name": "Grigorjev",
+        "fullname": "Grigorjev Daniel",
+        "personal_id": "50804160238",
+        "phone_number": "55551863",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-04-16T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfd')",
+        "username": "maksims.harchilava",
+        "first_name": "Maksims",
+        "second_name": "Harchilava",
+        "fullname": "Harchilava Maksims",
+        "personal_id": "////////////////////////",
+        "phone_number": "58167930",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "1997-05-26T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bfe')",
+        "username": "alex.jarlykovski",
+        "first_name": "Alex",
+        "second_name": "Jarlõkovski",
+        "fullname": "Jarlõkovski Alex",
+        "personal_id": "50811267125",
+        "phone_number": "56847720",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-11-26T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304bff')",
+        "username": "aleksandr.kalinin",
+        "first_name": "Aleksandr",
+        "second_name": "Kalinin",
+        "fullname": "Kalinin Aleksandr",
+        "personal_id": "50808187011",
+        "phone_number": "5330068",
+        "city": "Tallinn",
+        "city_area": "Kesklinn",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-08-18T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304c00')",
+        "username": "ivan.konstantinov",
+        "first_name": "Ivan",
+        "second_name": "Konstantinov",
+        "fullname": "Konstantinov Ivan",
+        "personal_id": "50710197045",
+        "phone_number": "55582836",
+        "city": "Tallinn",
+        "city_area": "Lasnamae",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2007-10-19T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304c01')",
+        "username": "arseni.kurtsakov",
+        "first_name": "Arseni",
+        "second_name": "Kurtsakov",
+        "fullname": "Kurtsakov Arseni",
+        "personal_id": "50809087087",
+        "phone_number": "56869427",
+        "city": "Maardu",
+        "city_area": "Maardu",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-09-08T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304001')",
+        "username": "kris-david.kutt",
+        "first_name": "Kris-David",
+        "second_name": "Kütt",
+        "fullname": "Kütt Kris-David",
+        "personal_id": "50801260262",
+        "phone_number": "55699943",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-01-26T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304002')",
+        "username": "martin.lambinen",
+        "first_name": "Martin",
+        "second_name": "Lambinen",
+        "fullname": "Lambinen Martin",
+        "personal_id": "50508310248",
+        "phone_number": "53451485",
+        "city": "Tallinn",
+        "city_area": "Mustamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2005-08-31T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304003')",
+        "username": "roman.levkovich",
+        "first_name": "Roman",
+        "second_name": "Levkovich",
+        "fullname": "Levkovich Roman",
+        "personal_id": "////////////////////////",
+        "phone_number": "55680626",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2001-07-27T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304004')",
+        "username": "david.loot",
+        "first_name": "David",
+        "second_name": "Loot",
+        "fullname": "Loot David",
+        "personal_id": "50704097099",
+        "phone_number": "54569235",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2007-04-09T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304005')",
+        "username": "oleksandr.lytvynenko",
+        "first_name": "Oleksandr",
+        "second_name": "Lytvynenko",
+        "fullname": "Lytvynenko Oleksandr",
+        "personal_id": "50802090025",
+        "phone_number": "53488628",
+        "city": "Tallinn",
+        "city_area": "Kristiine",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2008-02-09T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304006')",
+        "username": "kanan.mammadli",
+        "first_name": "Känan",
+        "second_name": "Mammadli",
+        "fullname": "Mammadli Känan",
+        "personal_id": "50609197115",
+        "phone_number": "58116860",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2006-09-19T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id":"ObjectId('66a253c9851aa246cc304007')",
+        "username": "artjom.maslov",
+        "first_name": "Artjom",
+        "second_name": "Maslov",
+        "fullname": "Maslov Artjom",
+        "personal_id": "50612297073",
+        "phone_number": "58060111",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "",
+        "email": "",
+        "groups": [
+            {
+                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2023-09-01T00:00:00Z"
+            }
+        ],
+        "birthDate": "2006-12-29T00:00:00Z",
+        "createdAt": "2023-09-01T00:00:00Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f7')",
+        "username": "david.meladze",
+        "first_name": "David",
+        "second_name": "Meladze",
+        "fullname": "David Meladze",
+        "personal_id": "50801232770",
+        "phone_number": "5057651",
+        "city": "Tallinn",
+        "city_area": "Kose",
+        "home_address": "N/A",
+        "email": "david.meladze@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2008-01-23T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f8')",
+        "username": "stanislav.miskov",
+        "first_name": "Stanislav",
+        "second_name": "Miskov",
+        "fullname": "Stanislav Miskov",
+        "personal_id": "оформляет документы",
+        "phone_number": "53792038",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "stanislav.miskov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2007-12-08T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f9')",
+        "username": "german.morris",
+        "first_name": "German",
+        "second_name": "Morris",
+        "fullname": "German Morris",
+        "personal_id": "50506090243",
+        "phone_number": "55576329",
+        "city": "Tallinn",
+        "city_area": "Põhja-Tallinn",
+        "home_address": "N/A",
+        "email": "german.morris@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2005-06-09T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fa')",
+        "username": "nikita.okhnik",
+        "first_name": "Nikita",
+        "second_name": "Okhnik",
+        "fullname": "Nikita Okhnik",
+        "personal_id": "50804300045",
+        "phone_number": "58470235",
+        "city": "Tapa",
+        "city_area": "Tapa linn",
+        "home_address": "N/A",
+        "email": "nikita.okhnik@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2008-04-30T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fb')",
+        "username": "jegor.petrov",
+        "first_name": "Jegor",
+        "second_name": "Petrov",
+        "fullname": "Jegor Petrov",
+        "personal_id": "50711240227",
+        "phone_number": "56674380",
+        "city": "Tallinn",
+        "city_area": "Männiku",
+        "home_address": "N/A",
+        "email": "jegor.petrov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2007-11-24T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fc')",
+        "username": "maksim.pirogov",
+        "first_name": "Maksim",
+        "second_name": "Pirogov",
+        "fullname": "Maksim Pirogov",
+        "personal_id": "50510020877",
+        "phone_number": "56218857",
+        "city": "Maardu",
+        "city_area": "Maardu",
+        "home_address": "N/A",
+        "email": "maksim.pirogov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2005-10-02T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fd')",
+        "username": "alik.popkov",
+        "first_name": "Alik",
+        "second_name": "Popkov",
+        "fullname": "Alik Popkov",
+        "personal_id": "50810042229",
+        "phone_number": "58299998",
+        "city": "Maardu",
+        "city_area": "Maardu",
+        "home_address": "N/A",
+        "email": "alik.popkov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2008-10-04T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fe')",
+        "username": "arseni.popov",
+        "first_name": "Arseni",
+        "second_name": "Popov",
+        "fullname": "Arseni Popov",
+        "personal_id": "50610120254",
+        "phone_number": "58190131",
+        "city": "Tallinn",
+        "city_area": "Õismäe",
+        "home_address": "N/A",
+        "email": "arseni.popov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-10-12T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e378ff')",
+        "username": "vladislav.radomskyi",
+        "first_name": "Vladislav",
+        "second_name": "Radomskyi",
+        "fullname": "Vladislav Radomskyi",
+        "personal_id": "50606027013",
+        "phone_number": "56280018",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "vladislav.radomskyi@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-06-02T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37900')",
+        "username": "damian.rud",
+        "first_name": "Damian",
+        "second_name": "Rud",
+        "fullname": "Damian Rud",
+        "personal_id": "50910307109",
+        "phone_number": "5514346",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "damian.rud@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2009-10-30T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37901')",
+        "username": "trofim.skripko",
+        "first_name": "Trofim",
+        "second_name": "Skripko",
+        "fullname": "Trofim Skripko",
+        "personal_id": "50904217126",
+        "phone_number": "5091803",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "trofim.skripko@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2009-04-21T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37902')",
+        "username": "deivid.skultshus",
+        "first_name": "Deivid",
+        "second_name": "Skultshus",
+        "fullname": "Deivid Skultshus",
+        "personal_id": "50511180936",
+        "phone_number": "55677923",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "deivid.skultshus@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2005-11-18T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37903')",
+        "username": "ivan.smirnov",
+        "first_name": "Ivan",
+        "second_name": "Smirnov",
+        "fullname": "Ivan Smirnov",
+        "personal_id": "50708120260",
+        "phone_number": "59812366",
+        "city": "Tallinn",
+        "city_area": "Õismäe",
+        "home_address": "N/A",
+        "email": "ivan.smirnov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2007-08-12T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37904')",
+        "username": "aleksandr.sokolov",
+        "first_name": "Aleksandr",
+        "second_name": "Sokolov",
+        "fullname": "Aleksandr Sokolov",
+        "personal_id": "50702150295",
+        "phone_number": "5081420",
+        "city": "Tallinn",
+        "city_area": "Põhja-Tallinn",
+        "home_address": "N/A",
+        "email": "aleksandr.sokolov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2007-02-15T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37905')",
+        "username": "nikita.somelar",
+        "first_name": "Nikita",
+        "second_name": "Somelar",
+        "fullname": "Nikita Somelar",
+        "personal_id": "50604192759",
+        "phone_number": "59194948",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "nikita.somelar@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-04-19T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37906')",
+        "username": "fjodor.svetlov",
+        "first_name": "Fjodor",
+        "second_name": "Svetlov",
+        "fullname": "Fjodor Svetlov",
+        "personal_id": "50607257036",
+        "phone_number": "55963006",
+        "city": "Tallinn",
+        "city_area": "Lasnamae",
+        "home_address": "N/A",
+        "email": "fjodor.svetlov@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-07-25T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37907')",
+        "username": "vladislav.tsernejev",
+        "first_name": "Vladislav",
+        "second_name": "Tsernejev",
+        "fullname": "Vladislav Tsernejev",
+        "personal_id": "50608200238",
+        "phone_number": "58535223",
+        "city": "Tallinn",
+        "city_area": "Lasnamae",
+        "home_address": "N/A",
+        "email": "vladislav.tsernejev@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-08-20T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37908')",
+        "username": "alexandr.utkin",
+        "first_name": "Aleksandr",
+        "second_name": "Utkin",
+        "fullname": "Aleksandr Utkin",
+        "personal_id": "////////////////////////",
+        "phone_number": "56951366",
+        "city": "Tallinn",
+        "city_area": "Põhja-Tallinn",
+        "home_address": "N/A",
+        "email": "aleksandr.utkin@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2003-07-17T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37909')",
+        "username": "arseni.valge",
+        "first_name": "Arseni",
+        "second_name": "Valge",
+        "fullname": "Arseni Valge",
+        "personal_id": "50902247148",
+        "phone_number": "55513967",
+        "city": "Raasiku",
+        "city_area": "Raasiku vald",
+        "home_address": "N/A",
+        "email": "arseni.valge@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2009-02-24T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790a')",
+        "username": "daniil.vesper",
+        "first_name": "Daniil",
+        "second_name": "Vesper",
+        "fullname": "Daniil Vesper",
+        "personal_id": "50805280012",
+        "phone_number": "58866375",
+        "city": "Tallinn",
+        "city_area": "Kesklinn",
+        "home_address": "N/A",
+        "email": "daniil.vesper@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2008-05-28T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790b')",
+        "username": "jevgeni.volk",
+        "first_name": "Jevgeni",
+        "second_name": "Volk",
+        "fullname": "Jevgeni Volk",
+        "personal_id": "50808017055",
+        "phone_number": "54576990",
+        "city": "Maardu",
+        "city_area": "Maardu",
+        "home_address": "N/A",
+        "email": "jevgeni.volk@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2008-08-01T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790c')",
+        "username": "andrei.zentchik",
+        "first_name": "Andrei",
+        "second_name": "Zentchik",
+        "fullname": "Andrei Zentchik",
+        "personal_id": "50610217058",
+        "phone_number": "58229204",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "andrei.zentchik@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-10-21T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+    {
+        "_id": "ObjectId('64f4bc6a6a2e4621d2e37900')",
+        "username": "erik.zikas",
+        "first_name": "Erik",
+        "second_name": "Zikas",
+        "fullname": "Erik Zikas",
+        "personal_id": "50602050220",
+        "phone_number": "58895024",
+        "city": "Tallinn",
+        "city_area": "Lasnamäe",
+        "home_address": "N/A",
+        "email": "erik.zikas@example.com",
+        "groups": [
+            {
+                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_name": "Altius_II_U19",
+                "role": "player",
+                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
+                "access_rights": "default",
+                "joined_group": "2024-09-01"
+            }
+        ],
+        "birthDate": "2006-02-05T00:00:00.000Z",
+        "createdAt": "2024-10-04T00:00:00.000Z"
+    },
+]
