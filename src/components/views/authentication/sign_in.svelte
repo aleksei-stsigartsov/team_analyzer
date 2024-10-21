@@ -16,7 +16,7 @@
 
     let title = 'Sign in with Microsoft account'
     let site = {
-        name: 'Global Engineering',
+        name: 'Team Analyzer',
         img: '/logo.png',
         link: '/',
         imgAlt: 'FlowBite Logo'

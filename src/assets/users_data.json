@@ -1,31 +1,30 @@
 [
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfd')",
-        "username": "alan.allahverdijev",
-        "first_name": "Alan",
-        "second_name": "Allahverdijev",
-        "fullname": "Alan Allahverdijev",
-        "personal_id": "50609070214",
-        "phone_number": "56902247",
+        "_id": {"$oid":"670cf8fc994187158de50411"},
+        "username": "aleksei.stsigartsov",
+        "first_name": "Aleksei",
+        "second_name": "Stsigartsov",
+        "fullname": "Aleksei Stsigartsov",
+        "personal_id": "50304170219",
+        "phone_number": "+37256965063",
         "city": "Tallinn",
         "city_area": "Lasnamäe",
-        "home_address": "",
-        "email": "",
-        "groups": [
-            {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
-                "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
-                "joined_group": "01.09.2023"
-            }
-        ],
-        "birthDate": "2006-09-07T00:00:00Z",
+        "home_address": "Paekaare 60",
+        "email": "aleksei.stsigartsov@gmail.com",
+        "groups":[
+        {
+            "group_id": "66a253c9851aa246cc319alt",
+            "group_name": "Altius_II_U19",
+            "roles": ["coach","manager"],
+            "team_id": "66a253c9851aa246cc304alt",
+            "access_rights": "administrator",
+            "joined_group": "01.09.2023"
+        }],
+        "birthDate": "2003-04-17T00:00:00Z",
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc305cfe')",
+        "_id": {"$oid":"66a253c9851aa246cc305cfe"},
         "username": "artem.anufriiev",
         "first_name": "Artem",
         "second_name": "Anufriiev",
@@ -38,11 +37,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -50,7 +49,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc306dff')",
+        "_id": {"$oid":"66a253c9851aa246cc306dff"},
         "username": "artjom.bairatski",
         "first_name": "Artjom",
         "second_name": "Bairatski",
@@ -63,11 +62,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -75,7 +74,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc307eee')",
+        "_id": {"$oid":"66a253c9851aa246cc307eee"},
         "username": "spartak.biryukov",
         "first_name": "Spartak",
         "second_name": "Biryukov",
@@ -88,11 +87,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -100,7 +99,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc308fff')",
+        "_id": {"$oid":"66a253c9851aa246cc308fff"},
         "username": "valeri.bogdanov",
         "first_name": "Valeri",
         "second_name": "Bogdanov",
@@ -113,11 +112,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -125,7 +124,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc309ddd')",
+        "_id": {"$oid":"66a253c9851aa246cc309ddd"},
         "username": "vladimir.bugajenko",
         "first_name": "Vladimir",
         "second_name": "Bugajenko",
@@ -138,11 +137,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -150,7 +149,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc310abc')",
+        "_id": {"$oid":"66a253c9851aa246cc310abc"},
         "username": "yehor.danich",
         "first_name": "Yehor",
         "second_name": "Danich",
@@ -163,11 +162,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -175,7 +174,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc311ddd')",
+        "_id": {"$oid":"66a253c9851aa246cc311ddd"},
         "username": "rolans.drobunins",
         "first_name": "Rolans",
         "second_name": "Drobunins",
@@ -188,11 +187,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "01.09.2023"
             }
         ],
@@ -200,7 +199,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfa')",
+        "_id": {"$oid":"66a253c9851aa246cc304bfa"},
         "username": "kirill.dronov",
         "first_name": "Kirill",
         "second_name": "Dronov",
@@ -213,11 +212,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -225,12 +224,12 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfb')",
+        "_id": {"$oid":"66a253c9851aa246cc304bfb"},
         "username": "arseni.grankin",
         "first_name": "Arseni",
         "second_name": "Grankin",
         "fullname": "Grankin Arseni",
-        "personal_id": "оформляет док",
+        "personal_id": "",
         "phone_number": "делает",
         "city": "Tallinn",
         "city_area": "Lasnamäe",
@@ -238,11 +237,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -250,7 +249,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfc')",
+        "_id": {"$oid":"66a253c9851aa246cc304bfc"},
         "username": "daniel.grigorjev",
         "first_name": "Daniel",
         "second_name": "Grigorjev",
@@ -263,11 +262,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -275,7 +274,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfd')",
+        "_id": {"$oid":"66a253c9851aa246cc304bfd"},
         "username": "maksims.harchilava",
         "first_name": "Maksims",
         "second_name": "Harchilava",
@@ -288,11 +287,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -300,7 +299,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bfe')",
+        "_id": {"$oid":"66a253c9851aa246cc304bfe"},
         "username": "alex.jarlykovski",
         "first_name": "Alex",
         "second_name": "Jarlõkovski",
@@ -313,11 +312,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -325,7 +324,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304bff')",
+        "_id": {"$oid":"66a253c9851aa246cc304bff"},
         "username": "aleksandr.kalinin",
         "first_name": "Aleksandr",
         "second_name": "Kalinin",
@@ -338,11 +337,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -350,7 +349,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304c00')",
+        "_id": {"$oid":"66a253c9851aa246cc304c00"},
         "username": "ivan.konstantinov",
         "first_name": "Ivan",
         "second_name": "Konstantinov",
@@ -363,11 +362,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -375,7 +374,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304c01')",
+        "_id": {"$oid":"66a253c9851aa246cc304c01"},
         "username": "arseni.kurtsakov",
         "first_name": "Arseni",
         "second_name": "Kurtsakov",
@@ -388,11 +387,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -400,7 +399,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304001')",
+        "_id": {"$oid":"66a253c9851aa246cc304001"},
         "username": "kris-david.kutt",
         "first_name": "Kris-David",
         "second_name": "Kütt",
@@ -413,11 +412,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -425,7 +424,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304002')",
+        "_id": {"$oid":"66a253c9851aa246cc304002"},
         "username": "martin.lambinen",
         "first_name": "Martin",
         "second_name": "Lambinen",
@@ -438,11 +437,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -450,7 +449,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304003')",
+        "_id": {"$oid":"66a253c9851aa246cc304003"},
         "username": "roman.levkovich",
         "first_name": "Roman",
         "second_name": "Levkovich",
@@ -463,11 +462,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -475,7 +474,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304004')",
+        "_id": {"$oid":"66a253c9851aa246cc304004"},
         "username": "david.loot",
         "first_name": "David",
         "second_name": "Loot",
@@ -488,11 +487,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -500,7 +499,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304005')",
+        "_id": {"$oid":"66a253c9851aa246cc304005"},
         "username": "oleksandr.lytvynenko",
         "first_name": "Oleksandr",
         "second_name": "Lytvynenko",
@@ -513,11 +512,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -525,7 +524,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304006')",
+        "_id": {"$oid":"66a253c9851aa246cc304006"},
         "username": "kanan.mammadli",
         "first_name": "Känan",
         "second_name": "Mammadli",
@@ -538,11 +537,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -550,7 +549,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id":"ObjectId('66a253c9851aa246cc304007')",
+        "_id": {"$oid":"66a253c9851aa246cc304007"},
         "username": "artjom.maslov",
         "first_name": "Artjom",
         "second_name": "Maslov",
@@ -563,11 +562,11 @@
         "email": "",
         "groups": [
             {
-                "group_id":"ObjectId('66a253c9851aa246cc302alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id":"ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id":"66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2023-09-01T00:00:00Z"
             }
         ],
@@ -575,7 +574,7 @@
         "createdAt": "2023-09-01T00:00:00Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f7')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378f7"},
         "username": "david.meladze",
         "first_name": "David",
         "second_name": "Meladze",
@@ -588,11 +587,11 @@
         "email": "david.meladze@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id": "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -600,12 +599,12 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f8')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378f8"},
         "username": "stanislav.miskov",
         "first_name": "Stanislav",
         "second_name": "Miskov",
         "fullname": "Stanislav Miskov",
-        "personal_id": "оформляет документы",
+        "personal_id": "",
         "phone_number": "53792038",
         "city": "Tallinn",
         "city_area": "Lasnamäe",
@@ -613,11 +612,11 @@
         "email": "stanislav.miskov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -625,7 +624,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378f9')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378f9"},
         "username": "german.morris",
         "first_name": "German",
         "second_name": "Morris",
@@ -638,11 +637,11 @@
         "email": "german.morris@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -650,7 +649,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fa')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378fa"},
         "username": "nikita.okhnik",
         "first_name": "Nikita",
         "second_name": "Okhnik",
@@ -663,11 +662,11 @@
         "email": "nikita.okhnik@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -675,7 +674,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fb')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378fb"},
         "username": "jegor.petrov",
         "first_name": "Jegor",
         "second_name": "Petrov",
@@ -688,11 +687,11 @@
         "email": "jegor.petrov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -700,7 +699,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fc')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378fc"},
         "username": "maksim.pirogov",
         "first_name": "Maksim",
         "second_name": "Pirogov",
@@ -713,11 +712,11 @@
         "email": "maksim.pirogov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -725,7 +724,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fd')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378fd"},
         "username": "alik.popkov",
         "first_name": "Alik",
         "second_name": "Popkov",
@@ -738,11 +737,11 @@
         "email": "alik.popkov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -750,7 +749,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378fe')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378fe"},
         "username": "arseni.popov",
         "first_name": "Arseni",
         "second_name": "Popov",
@@ -763,11 +762,11 @@
         "email": "arseni.popov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -775,7 +774,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e378ff')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e378ff"},
         "username": "vladislav.radomskyi",
         "first_name": "Vladislav",
         "second_name": "Radomskyi",
@@ -788,11 +787,11 @@
         "email": "vladislav.radomskyi@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -800,7 +799,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37900')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37900"},
         "username": "damian.rud",
         "first_name": "Damian",
         "second_name": "Rud",
@@ -813,11 +812,11 @@
         "email": "damian.rud@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -825,7 +824,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37901')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37901"},
         "username": "trofim.skripko",
         "first_name": "Trofim",
         "second_name": "Skripko",
@@ -838,11 +837,11 @@
         "email": "trofim.skripko@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -850,7 +849,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37902')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37989"},
         "username": "deivid.skultshus",
         "first_name": "Deivid",
         "second_name": "Skultshus",
@@ -863,11 +862,11 @@
         "email": "deivid.skultshus@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -875,7 +874,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37903')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37903"},
         "username": "ivan.smirnov",
         "first_name": "Ivan",
         "second_name": "Smirnov",
@@ -888,11 +887,11 @@
         "email": "ivan.smirnov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -900,7 +899,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37904')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37904"},
         "username": "aleksandr.sokolov",
         "first_name": "Aleksandr",
         "second_name": "Sokolov",
@@ -913,11 +912,11 @@
         "email": "aleksandr.sokolov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -925,7 +924,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37905')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37905"},
         "username": "nikita.somelar",
         "first_name": "Nikita",
         "second_name": "Somelar",
@@ -938,11 +937,11 @@
         "email": "nikita.somelar@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -950,7 +949,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37906')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37906"},
         "username": "fjodor.svetlov",
         "first_name": "Fjodor",
         "second_name": "Svetlov",
@@ -963,11 +962,11 @@
         "email": "fjodor.svetlov@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -975,7 +974,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37907')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37907"},
         "username": "vladislav.tsernejev",
         "first_name": "Vladislav",
         "second_name": "Tsernejev",
@@ -988,11 +987,11 @@
         "email": "vladislav.tsernejev@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1000,7 +999,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37908')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37908"},
         "username": "alexandr.utkin",
         "first_name": "Aleksandr",
         "second_name": "Utkin",
@@ -1013,11 +1012,11 @@
         "email": "aleksandr.utkin@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1025,7 +1024,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37909')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37909"},
         "username": "arseni.valge",
         "first_name": "Arseni",
         "second_name": "Valge",
@@ -1038,11 +1037,11 @@
         "email": "arseni.valge@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1050,7 +1049,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790a')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e3790a"},
         "username": "daniil.vesper",
         "first_name": "Daniil",
         "second_name": "Vesper",
@@ -1063,11 +1062,11 @@
         "email": "daniil.vesper@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1075,7 +1074,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790b')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e3790b"},
         "username": "jevgeni.volk",
         "first_name": "Jevgeni",
         "second_name": "Volk",
@@ -1088,11 +1087,11 @@
         "email": "jevgeni.volk@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1100,7 +1099,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e3790c')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e3790c"},
         "username": "andrei.zentchik",
         "first_name": "Andrei",
         "second_name": "Zentchik",
@@ -1113,11 +1112,11 @@
         "email": "andrei.zentchik@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
@@ -1125,7 +1124,7 @@
         "createdAt": "2024-10-04T00:00:00.000Z"
     },
     {
-        "_id": "ObjectId('64f4bc6a6a2e4621d2e37900')",
+        "_id":  {"$oid":"64f4bc6a6a2e4621d2e37902"},
         "username": "erik.zikas",
         "first_name": "Erik",
         "second_name": "Zikas",
@@ -1138,15 +1137,15 @@
         "email": "erik.zikas@example.com",
         "groups": [
             {
-                "group_id": "ObjectId('66a253c302bda246cc304alt')",
+                "group_id":  "66a253c9851aa246cc302alt",
                 "group_name": "Altius_II_U19",
-                "role": "player",
-                "team_id": "ObjectId('66a253c9851aa246cc304alt')",
-                "access_rights": "default",
+                "roles": ["player"],
+                "team_id": "66a253c9851aa246cc304alt",
+                "access_rights": "default_player",
                 "joined_group": "2024-09-01"
             }
         ],
         "birthDate": "2006-02-05T00:00:00.000Z",
         "createdAt": "2024-10-04T00:00:00.000Z"
-    },
+    }
 ]

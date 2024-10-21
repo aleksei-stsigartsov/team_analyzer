@@ -1,10 +1,6 @@
 const mongoose = require('mongoose')
 
-const Rackwipe = require('./model/Rackwipe')
-const Rack = require('./model/Rack')
-const Hdd = require('./model/Hdd')
-const Txt = require('./model/Txt')
-const Log = require('./model/Log')
+// const Rackwipe = require('./model/Rackwipe') 
 const { exit } = require('../utils')
 const { ERR_MSG, MSG } = require('../constants')
 const { getConfigValue } = require('../config')
@@ -21,10 +17,6 @@ const connect = _ =>
 
 module.exports = {
     connect,
-    Rackwipe,
-    Log,
-    Rack,
-    Hdd,
-    Txt
 
+// export DB models
 }

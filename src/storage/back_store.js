@@ -10,13 +10,10 @@ const setValue = (name, value) => {
     stores[name].set(value)
     localStorage[name] = value
 }
-const isUSBsync = writable(false)
-const tableGroup = writable('')
+
 
 export {
     isLogged,
     stores,
     setValue,
-    isUSBsync,
-    tableGroup
 }

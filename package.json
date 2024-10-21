@@ -35,7 +35,6 @@
     "compression": "^1.7.4",
     "config": "^3.3.7",
     "csv-stringify": "^6.2.0",
-    "drivelist": "^12.0.2",
     "express": "^4.18.1",
     "fast-csv": "^4.3.6",
     "file-saver": "^2.0.5",
@@ -57,7 +56,6 @@
     "svelte-spa-router": "^3.3.0",
     "svelte-virtual-scroll-list": "^1.1.0",
     "tailwindcss": "^3.1.8",
-    "usb": "^2.13.0",
     "vite-plugin-commonjs": "^0.5.2",
     "vite-plugin-resolve": "^2.1.2"
   }
