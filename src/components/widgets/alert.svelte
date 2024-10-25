@@ -2,7 +2,7 @@
     import { Alert, Button } from 'flowbite-svelte'
     import { InfoCircleSolid } from 'flowbite-svelte-icons'
     import { fly } from 'svelte/transition'
-    import { alert } from '../../store.js'
+	import { alert } from '../../storage/core_store'
 
     const closeAlert = () => {
         $alert.msg = ''

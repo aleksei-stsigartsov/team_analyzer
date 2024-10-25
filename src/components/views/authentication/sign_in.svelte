@@ -1,6 +1,5 @@
-<script>
+<!-- <script>
 
-    import SignIn from '../SignIn.svelte'
 	import Entra from '../../entra/index.js'
     import { pop, push } from 'svelte-spa-router'
     import { alert, user } from '../../store.js'
@@ -66,4 +65,4 @@
 		on:submit={logIn}
 >
 
-</SignIn>
+</SignIn> -->

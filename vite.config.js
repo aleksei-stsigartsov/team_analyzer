@@ -5,7 +5,6 @@ import preprocess from "svelte-preprocess"
 import commonjs from 'vite-plugin-commonjs'
 import {NodeGlobalsPolyfillPlugin} from '@esbuild-plugins/node-globals-polyfill'
 import {NodeModulesPolyfillPlugin} from '@esbuild-plugins/node-modules-polyfill'
-import { optimizeImports } from 'carbon-preprocess-svelte'
 
 export default defineConfig({
 
@@ -22,7 +21,6 @@ export default defineConfig({
             },
             preprocess: [
                 preprocess({postcss: true}),
-                optimizeImports(),
             ],
         }),
         commonjs(),

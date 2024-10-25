@@ -1,10 +1,8 @@
 import { writable } from 'svelte/store'
 
-const stores = {}
+export const stores = {}
 
-const isLogged = writable(false)
-
-const setValue = (name, value) => {
+export const setValue = (name, value) => {
     if ( ! stores[name]) stores[name] = writable()
 
     stores[name].set(value)
@@ -12,8 +10,3 @@ const setValue = (name, value) => {
 }
 
 
-export {
-    isLogged,
-    stores,
-    setValue,
-}
